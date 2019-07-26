@@ -1,0 +1,4 @@
+name = "QuakePAK.jl"
+uuid = "e1244eb4-a3bf-11e9-0876-6b635bd28077"
+authors = ["Sebastian Stabinger <sebastian@stabinger.name>"]
+version = "0.1.0"
